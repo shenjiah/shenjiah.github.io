@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James C. Wang on 沈潔 - 資深新聞工作者</title>
-    <link>https://shenjiah.github.io/tags/james-c.-wang/</link>
+    <link>http://localhost:1313/tags/james-c.-wang/</link>
     <description>Recent content in James C. Wang on 沈潔 - 資深新聞工作者</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Sun, 14 Apr 2002 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shenjiah.github.io/tags/james-c.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/james-c.-wang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calling a spade a spade</title>
-      <link>https://shenjiah.github.io/posts/2002-04-14/</link>
+      <link>http://localhost:1313/posts/2002-04-14/</link>
       <pubDate>Sun, 14 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>https://shenjiah.github.io/posts/2002-04-14/</guid>
+      <guid>http://localhost:1313/posts/2002-04-14/</guid>
       <description>Calling a spade a spade James C. Wang&#xA;Referring to Taiwan as &amp;ldquo;The Republic of Taiwan,&amp;rdquo; President George W. Bush of the United States caused an uproar in China and a ripple in Taiwan.</description>
     </item>
   </channel>
